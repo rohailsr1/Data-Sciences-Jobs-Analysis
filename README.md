@@ -84,7 +84,7 @@ Based on this Power Pivot intelligence, I have developed a three-tier strategy f
 
 # 👤 Author
 **Muhammad Rohail** *BS Entrepreneurship | Data Analyst & Strategy Enthusiast* GitHub: [https://github.com/rohailsr1](https://github.com/rohailsr1)  
-LinkedIn: [Your LinkedIn URL Here]
+
 
 ---
 *Generated as part of a professional data analytics portfolio focusing on advanced Excel and Power Pivot workflows.*
