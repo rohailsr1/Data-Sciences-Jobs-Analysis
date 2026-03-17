@@ -87,4 +87,3 @@ Based on this Power Pivot intelligence, I have developed a three-tier strategy f
 
 
 ---
-*Generated as part of a professional data analytics portfolio focusing on advanced Excel and Power Pivot workflows.*
